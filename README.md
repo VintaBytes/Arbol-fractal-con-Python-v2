@@ -6,7 +6,7 @@ Este script utiliza la librería `turtle` en Python para dibujar un árbol fract
 <span><img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/></span>
 
 ## Resultado
-<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v2/blob/main/lsystem-21.jpeg?raw=true" width="640px">
+<img src="https://github.com/VintaBytes/Arbol-fractal-con-Python-v2/blob/main/lsystem-21.jpeg?raw=true" width="320px">
 
 ## Explicación del Código
 
